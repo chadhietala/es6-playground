@@ -78,7 +78,7 @@ class Foo {
 ```
 This is a very similar syntax to annotations in Java/Dart. It is just a nice declarative way to put additional meta data on classes/functions/parameters.
 
-When `annotations: true`, Traceur transpiles the above code code into something like this:
+When `annotations: true`, Traceur transpiles the above code into something like this:
 ```js
 // ...
 
